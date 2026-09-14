@@ -2,3 +2,4 @@ Saya sedang belajar Git.
 Saya sudah berhasil melakukan push ke GitHub.
 mencoba git pull
 Saya sedang mengembangkan fitur pemain.
+Saya belajar GitHub melalui website.
