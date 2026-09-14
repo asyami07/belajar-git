@@ -1,1 +1,2 @@
 Saya sedang belajar Git.
+Saya sudah berhasil melakukan push ke GitHub.
